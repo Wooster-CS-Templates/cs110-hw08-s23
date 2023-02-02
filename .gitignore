@@ -292,6 +292,6 @@ tests-out/
 !/tests-*/*.a
 
 # executables
-blur
-transpose
+array-functions
+paycheck
 a.out
